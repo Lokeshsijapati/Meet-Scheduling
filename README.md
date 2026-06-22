@@ -74,8 +74,3 @@ brevo.api.key=YOUR_BREVO_API_KEY
 mvn spring-boot:run
 ```
 
----
-
-## Contact
-
-Lokesh Sijapati — [GitHub](https://github.com/Lokeshsijapati)
