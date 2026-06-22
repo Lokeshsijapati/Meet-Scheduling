@@ -3,13 +3,11 @@
 A meeting scheduling backend built with Spring Boot. Handles slot booking, checks for conflicts, syncs with Google Calendar, and sends automated email confirmations via Brevo.
 
 ---
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fa94e703-704a-4987-863d-ba41e2e4ccff" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ecd6f29-13f7-42b1-b05e-ac5b4ade1377" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f636880-e150-439d-8fdf-e194782b19f2" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cc8f9907-058e-4361-97f8-6d1392f10b65" />
-<img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/d57b8a3d-fa8f-4784-8aa5-604bae80bf64" />
-
+<img width="1920" height="1003" alt="Image" src="https://github.com/user-attachments/assets/93b2a48d-2304-453c-935e-ff081a7d9c0b" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/a85cbef5-cdc1-400b-a602-37ea1874360e" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/63798264-6966-49eb-8253-b105fe13fa50" />
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/550031a0-edc7-4803-b3d0-8425b0300d77" />
+<img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/d8bce3c1-4753-4c71-b4bc-3d1c53f35681" />
 ---
 ## Tech Stack
 
