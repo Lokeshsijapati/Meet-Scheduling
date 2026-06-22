@@ -23,7 +23,7 @@ A meeting scheduling backend built with Spring Boot. Handles slot booking, check
 
 ## Features
 
-- Create, update, delete and fetch meetings
+- Create meetings
 - Conflict detection before booking a slot
 - Auto sync with Google Calendar
 - Email confirmations and reminders via Brevo
@@ -35,12 +35,8 @@ A meeting scheduling backend built with Spring Boot. Handles slot booking, check
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| POST | `/api/meetings` | Create a meeting |
-| GET | `/api/meetings` | Get all meetings |
-| GET | `/api/meetings/{id}` | Get meeting by ID |
-| PUT | `/api/meetings/{id}` | Update a meeting |
-| DELETE | `/api/meetings/{id}` | Delete a meeting |
-
+| POST | `/api/create-meeting` | Create a meeting for frontend|
+| GET | `/test-meeting` | Create meeting by postman|
 ---
 
 ## Project Structure
