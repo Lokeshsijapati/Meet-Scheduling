@@ -41,6 +41,7 @@ Entity Layer
 ## How To Run
 
 ### 1. Clone the repository
+### 2. Add your db and api details
 
 ```bash
 git clone <https://github.com/Lokeshsijapati/Meet-Schedulling.git>
