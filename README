@@ -1,0 +1,36 @@
+# Meet Scheduling
+
+Meet Scheduling is a backend application that helps users create and manage meetings. 
+The main purpose of this project is to provide APIs for scheduling meetings and managing meeting details.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- REST API
+
+## Features
+
+- User can create meetings
+- Manage meeting details
+- Update and delete meetings
+- Store meeting information in database
+- RESTful APIs for handling requests
+
+## Project Structure
+
+The project follows layered architecture:
+
+Controller Layer - Handles API requests  
+Service Layer - Contains business logic  
+Repository Layer - Database operations  
+
+## How To Run
+
+1. Clone the repository
+2. Configure database details
+3. Run the Spring Boot application
+
