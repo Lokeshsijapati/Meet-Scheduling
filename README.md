@@ -7,6 +7,8 @@ A meeting scheduling backend built with Spring Boot. Handles slot booking, check
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fa94e703-704a-4987-863d-ba41e2e4ccff" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ecd6f29-13f7-42b1-b05e-ac5b4ade1377" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f636880-e150-439d-8fdf-e194782b19f2" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cc8f9907-058e-4361-97f8-6d1392f10b65" />
+<img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/d57b8a3d-fa8f-4784-8aa5-604bae80bf64" />
 
 ---
 ## Tech Stack
